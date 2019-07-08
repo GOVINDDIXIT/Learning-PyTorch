@@ -6,4 +6,4 @@ PyTorch is a machine learning library for the programming language Python, based
 
 **PyTorch provides two high-level features:**
 - Tensor computing (like NumPy) with strong acceleration via graphics processing units (GPU)
-- Deep neural networks built on a tape-based autodiff system
+- Deep neural networks built on a tape-based autodiff system.
