@@ -23,8 +23,8 @@ TensorFlow, on the other hand, was written mainly in C++ and CUDA (NVIDIA's lang
 Now, PyTorch has deep neural networks functionalities and that is why it is often compared with TensorFlow, sklearn, etc. Moreover, TensorFlow has a peculiar logic (with concepts like placeholders, sessions, etc.). So, for TensorFlow, you need to make that extra effort. Knowing NumPy (which is my underlying assumption for the dear reader), it is easier to switch to PyTorch than TensorFlow, that is why it is gaining popularity so fast.
 
 ### Summary
-For Beginner -> Tensorflow
+*For Beginner -> Tensorflow*
 
-For Production -> Tensorflow
+*For Production -> Tensorflow*
 
-For Researchers -> PyTorch
+*For Researchers -> PyTorch*
